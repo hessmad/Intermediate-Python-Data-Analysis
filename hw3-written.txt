@@ -1,0 +1,21 @@
+1. a) I do not think the bar chart is an effective tool for data visualization
+as it is difficult to evaluate difference in the data and it gives an
+over-simplification of our available data.
+   b) I chose a line plot so I could show the changes in degree attainment for
+   the different groups we were evaluating.  The line plot was the most
+   effective at comparing different populations clearly.
+
+2. There are a few limitations to our dataset.  First would be that it only
+looks at individuals between 25 and 29 years old so it misses out on observing
+later in life graduates or individuals who may be currently working towards a
+degree.  Furthermore, there is a lot of missing data for different races in
+earlier observations so the total calculated is likely very inaccurate for
+the whole population.
+
+3. There are definitely ethical issues present as far as trying to make
+predications about the future. If used for such a purpose, this model 
+could be used to assert that certain groups are less likely to complete school
+than others. Such an assertion could be used to marginalize other populations.
+This dataset fails to evaluate other factors affecting education attainment
+which would be necessary to even begin to try to predict education attainment
+of individuals in different groups.
